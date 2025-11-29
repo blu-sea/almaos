@@ -1,4 +1,4 @@
-# My Atomic AlmaLinux Respin..
+# My Atomic AlmaLinux Respin
 
 Welcome to your brand-new Atomic AlmaLinux Respin!
 
