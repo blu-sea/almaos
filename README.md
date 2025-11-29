@@ -1,5 +1,10 @@
 # My Atomic AlmaLinux Respin
 
+Experimental bootc OS
+
+
+==== Below here is the original template README ====
+
 Welcome to your brand-new Atomic AlmaLinux Respin!
 
 ## Initial Setup
